@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pradnyarn
+- 👋 Hi, I’m Pradnya
 - 👀 I’m interested in Learning data science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data Science
