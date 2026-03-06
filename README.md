@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pradnya
+- 👋 Hi, I’m Pradnya Rane
 - 👀 I’m data Engineering
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Data Engineering and Data Science
