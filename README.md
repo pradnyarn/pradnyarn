@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pradnya
-- 👀 I’m interested in Learning data science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Science
+- 👀 I’m data Engineering
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on Data Engineering and Data Science
 - 📫
 
 <!---
