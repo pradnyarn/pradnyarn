@@ -2,7 +2,7 @@
 - 👀 I’m data Engineering
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Data Engineering and Data Science
-- 📫
+  
 
 <!---
 pradnyarn/pradnyarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
